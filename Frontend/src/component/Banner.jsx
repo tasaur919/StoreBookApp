@@ -27,7 +27,7 @@ function Banner() {
          <button className="btn btn-secondary mt-3">Get Start</button>
         </div>
         <div className='w-full md:w-1/2 order-1 mx-2 mt-5'>
-        <img src="../../public/Banner2.avif" className='transparent w-full ' alt="" />
+        <img src="../../Banner2.avif" className='transparent w-full ' alt="" />
         </div>
     </div>
     
